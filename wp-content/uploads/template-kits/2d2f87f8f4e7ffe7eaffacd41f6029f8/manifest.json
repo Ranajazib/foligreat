@@ -1,0 +1,144 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Men's Cosmetics",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home-24e63ba426744133ef93ee426b113e01.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-53c7ecdb29e202e7f676a40556256365.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3 (Pro)",
+            "screenshot": "screenshots\/home-3-pro-.jpg",
+            "source": "templates\/home-3-pro-c081c55254fb0a996d74f6da5f7b0083.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Products",
+            "screenshot": "screenshots\/products.jpg",
+            "source": "templates\/products-4e4e85c0e0ddfac40bdb5193aad493c5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Products 2 (Pro)",
+            "screenshot": "screenshots\/products-2-pro-.jpg",
+            "source": "templates\/products-2-pro-6175f9e70e41005376c2b95e4ad7d48c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Products Single",
+            "screenshot": "screenshots\/products-single.jpg",
+            "source": "templates\/products-single-9d66ae18d183a0ac60907bf0a25d8e32.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Subscription (Pro)",
+            "screenshot": "screenshots\/subscription-pro-.jpg",
+            "source": "templates\/subscription-pro-fe22cce2b2afb6f41367d99fb5537589.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about-123ad465bf056a76f1fec33284164ca7.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact-d7c355890c9ef51f721b39bf823d0bad.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact (Pro)",
+            "screenshot": "screenshots\/contact-pro-.jpg",
+            "source": "templates\/contact-pro-248a0ff7e4b3572b99326104d629ee18.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [],
+    "images": []
+}

@@ -1,0 +1,5 @@
+[28-Oct-2021 12:37:02 UTC] PHP Fatal error:  Class 'WP_Privacy_Data_Export_Requests_List_Table' not found in /home/alnoorin/foligreat.com/wp-admin/includes/deprecated.php on line 1530
+[28-Oct-2021 12:37:04 UTC] PHP Fatal error:  Class 'WP_Privacy_Data_Export_Requests_List_Table' not found in /home/alnoorin/foligreat.com/wp-admin/includes/deprecated.php on line 1530
+[28-Oct-2021 12:37:04 UTC] PHP Fatal error:  Class 'WP_Privacy_Data_Export_Requests_List_Table' not found in /home/alnoorin/foligreat.com/wp-admin/includes/deprecated.php on line 1530
+[28-Oct-2021 15:21:12 UTC] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/alnoorin/foligreat.com/wp-admin/includes/class-wp-filesystem-ftpsockets.php on line 16
+[29-Oct-2021 05:05:13 UTC] PHP Fatal error:  Class 'WP_List_Table' not found in /home/alnoorin/foligreat.com/wp-admin/includes/class-wp-comments-list-table.php on line 18
